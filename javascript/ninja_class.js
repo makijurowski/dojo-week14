@@ -1,4 +1,3 @@
-
 function Ninja(name) {
     this.name = name;
     this.health = 100;
