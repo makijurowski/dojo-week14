@@ -1,0 +1,40 @@
+<html>
+
+<body>
+    <h1>Students</h1>
+    <ul id="main1">
+        <!-- This is intentionally empty-->
+    </ul>
+    <div id="main2">
+        <!-- This is intentionally empty-->
+    </div>
+    <script>
+        function appendList(array, id) {
+            for (let i = 0; i < array.length; i ++) {
+                // Create empty li element
+                let list_item = document.createElement("li");
+                // Assign current value in list to the empty li
+                list_item.innerHTML = array[i];
+                // Add the new list item to the passed id
+                document.getElementById(id).appendChild(list_item);
+            }
+        };
+        let students = ["Jeff", "Jenny", "Javier", "Joslyn", "Joe", "Jane", "Django"];
+        let target_id = "main1";
+        // appendList(students, target_id);
+
+        function superAppend(array, element, id) {
+            for (let i = 0; i < array.length; i++) {
+                // Create empty element
+                let list_item = document.createElement(element);
+                // Assign current value in list to the empty element
+                list_item.innerHTML = array[i];
+                // Add the new list item to the passed id
+                document.getElementById(id).appendChild(list_item);
+            }
+        }
+        superAppend(students, "p", "main2");
+    </script>
+</body>
+
+</html>

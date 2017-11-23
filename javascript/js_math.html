@@ -1,0 +1,32 @@
+<html>
+
+<body>
+    <div id="message">
+        Hello World!
+    </div>
+    <script>
+        // Coding Dojo assignment challenges using JS Math object
+        function zero_negativity_normal(arr) {
+            for (let i = 0; i < arr.length; i++) {
+                if (arr[i] < 0) {
+                    return false;
+                } else {
+                    if (arr[i] === arr[arr.length - 1]) {
+                        return true;
+                    }
+                }
+            }
+        }
+
+        function zero_negativity_math(arr) {
+            if (Math.min(...arr) < 0) {
+                return false;
+            }
+            return true;
+        }
+        console.log(zero_negativity_normal([1, 2, 3, 4]));
+        console.log(zero_negativity_math([1, 2, 3, 4]));
+    </script>
+</body>
+
+</html>
