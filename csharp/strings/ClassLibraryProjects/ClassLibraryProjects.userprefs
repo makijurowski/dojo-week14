@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{520C9F37-6249-49BC-8693-CD04B9853BDA}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringLibraryTest/StringLibraryTest.csproj">
-    <Files>
-      <File FileName="StringLibrary/Class1.cs" Line="7" Column="43" />
-      <File FileName="StringLibraryTest/UnitTest1.cs" Line="24" Column="32" />
-      <File FileName="StringLibraryTest/StringLibraryTest.csproj" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{520C9F37-6249-49BC-8693-CD04B9853BDA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClassLibraryProjects" expanded="True">
+            <Node name="StringLibraryTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
