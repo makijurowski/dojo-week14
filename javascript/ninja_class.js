@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 function Ninja(name) {
     this.name = name;
     this.health = 100;
@@ -105,7 +107,7 @@ class Sensei extends ClassNinja {
         console.log(`That was some tasty sake. My health is now ${this.health}.`);
         console.log(`Everything up must come down. This is a wise mesaage.`);
         return this;
-    }
+    };
   }
 
   // Custom getter
