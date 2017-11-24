@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{520C9F37-6249-49BC-8693-CD04B9853BDA}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringLibraryTest/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringLibraryTest/StringLibraryTest.csproj">
     <Files>
-      <File FileName="StringLibrary/Class1.cs" Line="16" Column="2" />
-      <File FileName="StringLibraryTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="StringLibrary/Class1.cs" Line="7" Column="43" />
+      <File FileName="StringLibraryTest/UnitTest1.cs" Line="24" Column="32" />
+      <File FileName="StringLibraryTest/StringLibraryTest.csproj" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
