@@ -1,0 +1,8 @@
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/bin/Debug/netstandard2.0/library.dll
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/bin/Debug/netstandard2.0/library.pdb
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/obj/Debug/netstandard2.0/library.dll
+/Users/mroggers/Google Drive/Dojo/Week14/csharp/binary_search_trees/library/obj/Debug/netstandard2.0/library.pdb
